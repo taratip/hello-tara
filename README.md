@@ -1,2 +1,2 @@
-# hello-tara
+# Hello-World
 Hello world repository
