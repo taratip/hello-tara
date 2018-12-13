@@ -1,2 +1,2 @@
 # Hello-World
-Hello Taratip Jaikaeo
+Hello World repository
